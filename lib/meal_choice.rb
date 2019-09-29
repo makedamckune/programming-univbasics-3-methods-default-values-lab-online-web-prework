@@ -7,4 +7,5 @@ protien = gets
 puts "vegetable"
 vegtable = gets 
 
-puts = ("Hello there. We have a variety of different meals. What kind of meal would you like? + meal_choice1")
+puts = ("Hello there. We have a variety of different meals. What kind of meal would you like?" + meal_choice1 + "A choice of another?" + meal_choice2 + "A choice of" + protien + "or" + vegtable +)
+end
